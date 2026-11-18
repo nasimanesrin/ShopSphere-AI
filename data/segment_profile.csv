@@ -1,0 +1,4 @@
+cluster,customer_count,average_orders,average_spending,average_order_value,average_quantity,average_discount,average_delivery_days,customer_segment
+0,2823,6.34,934.3,150.53,9.82,0.05,4.81,Mid-Spending Customers
+1,4493,3.07,356.63,118.62,4.15,0.05,4.82,Low-Spending Customers
+2,587,4.8,2769.02,647.65,8.67,0.05,4.84,High-Spending Customers
